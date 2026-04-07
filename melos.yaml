@@ -1,0 +1,15 @@
+name: course_melos_project
+
+packages:
+  - apps/**
+
+scripts:
+  # This allows you to run all tests across all packages with one command
+  test:all:
+    run: melos exec -- "flutter test"
+    description: Run all tests in the project.
+
+  # This helps clean up your workspace if things get buggy
+  deep_clean:
+    run: melos clean && melos bootstrap
+    description: Clean and re-bootstrap the project.

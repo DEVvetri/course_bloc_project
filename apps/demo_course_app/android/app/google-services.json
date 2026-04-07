@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139587500223",
+    "project_id": "ecom-244ed",
+    "storage_bucket": "ecom-244ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139587500223:android:48df460cf38a863c01ee0a",
+        "android_client_info": {
+          "package_name": "com.example.demo_course_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDklDa5EXno3TMdfp2Wib5EL2RMw6XsMcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
